@@ -1,1 +1,1 @@
-# HEAML
+The data and code included in this repository are associated with the paper "Correlating Nitrate Adsorption with the Local Environments of FeCoNiCuZn High-Entropy Alloy Catalysts Using Machine Learning".
